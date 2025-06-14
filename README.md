@@ -63,7 +63,7 @@ The EEG data comes from **PhysioNet** and consists of `.edf` files for each subj
 File structure used:
 
 - Raw EEG files: `/files-2/`
-- Preprocessed matrices: `/vectores/` (not in repo)
+- Preprocessed matrices: `/vectores/` 
 
 
 ##  Summary of the analysis
