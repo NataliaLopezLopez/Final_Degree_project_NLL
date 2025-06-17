@@ -4,7 +4,7 @@ This repository contains all the scripts and resources used for my final degree 
 
 ---
 
-## 🧠 What this project is about
+## What this project is about
 
 I worked on analyzing EEG recordings using different metrics like **Permutation Entropy (PE)**, **Spatial Permutation Entropy (SPE)**, and classical statistical features such as **Mean**, **Variance**, **Skewness**, **Kurtosis**, etc. I also explored how preprocessing, time duration, and electrode configurations affect the results. The aim was to understand how these brain states differ and which features help distinguish them best.
 
