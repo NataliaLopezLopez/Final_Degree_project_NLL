@@ -53,6 +53,7 @@ Scripts that compute classical **statistical features** for EEG signals:
 - `plots_whole_time_serie.py`: Evaluates how PE changes over different time windows for EO and EC.
 - `make_figs.m`: MATLAB script used to organize or clean plots for the final report.
 - `spe_summary_by_subject.csv`: Summary table of SPE values per subject.
+- `with_without_artifacts.py`: figure to show difference in EEG signal before and after removing artifacts (blink).
 
 ---
 
